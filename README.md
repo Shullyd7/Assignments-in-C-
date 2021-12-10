@@ -1,1 +1,3 @@
-# Assignments-in-C-
+# Assignments-in-C#
+
+THESE ARE THE AREAS I WORKED ON IN C SHARP
